@@ -5,11 +5,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Define the player properties
   var player = {
-    x: 57, // Initial player position (adjust as needed)
+    x: 57,
     y: 52,
     width: 17,
     height: 17,
-    speed: 17, // Adjust the speed as needed
+    speed: 17,
   };
   // Define the maze structure (0: empty space, 1: wall, 2: entrance, 3: exit)
   var maze = [
