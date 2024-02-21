@@ -4,7 +4,7 @@ Welcome to the Maze Game! This simple yet engaging JavaScript-based game challen
 
 ## How to Play
 
-- Use the arrow keys (or WASD) to move the player through the maze.
+- Use the arrow keys to move the player through the maze.
 - Navigate through the corridors, avoiding collisions with walls.
 - Reach the goal point to complete the maze and win the game.
 
