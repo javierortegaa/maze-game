@@ -22,3 +22,5 @@ To get started with the Maze Game:
 ## About
 
 This Maze Game project was created by Javier Ortega as a fun way to explore JavaScript game development. Feel free to contribute, provide feedback, or suggest new features!
+
+## Version 1.0

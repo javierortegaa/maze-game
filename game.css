@@ -22,3 +22,7 @@ html {
   width: 100vw; /* Set canvas width to 100% of viewport width */
   height: 100vh; /* Set canvas height to 100% of viewport height */
 }
+h1 {
+  font-size: 3rem;
+  margin-top: 10px;
+}

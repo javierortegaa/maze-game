@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Define the player properties
   var player = {
     x: 57, // Initial player position (adjust as needed)
-    y: 27,
+    y: 52,
     width: 17,
     height: 17,
     speed: 17, // Adjust the speed as needed
