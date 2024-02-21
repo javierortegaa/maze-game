@@ -25,4 +25,5 @@ html {
 h1 {
   font-size: 3rem;
   margin-top: 10px;
+  margin-bottom: -10px;
 }
