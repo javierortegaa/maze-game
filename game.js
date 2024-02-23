@@ -418,9 +418,8 @@ document.addEventListener("DOMContentLoaded", function () {
       ],
     ], //level 2
   ];
-
   // Define the initial player position for all levels
-  var initialPlayerPosition = { x: 57, y: 27 };
+  var initialPlayerPosition = { x: player.x, y: player.y };
 
   // Track the current level index
   var currentLevelIndex = 0;
